@@ -1,4 +1,5 @@
 # FairShift
+<img width="1620" height="771" alt="Screenshot 2026-10-27 130633" src="https://github.com/user-attachments/assets/5bcf19fa-2c72-4db4-8c28-86543f326fb6" />
 
 FairShift is a worker-first workplace fairness demo for organizations with frontline teams. It brings attendance, pay, scheduling, safety reports, and workplace concerns into one application so workers and employer-side teams can review evidence and follow up on potential issues.
 
